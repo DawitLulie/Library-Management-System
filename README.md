@@ -7,7 +7,7 @@ The system allows checking out and returning books, keeps track of the total num
 This project demonstrates:  
 - Object-oriented programming concepts  
 - Use of **ArrayList** for managing collections  
-- Static variables for shared data across objects  
+- Static variables for shared data across objects
 
 ---
 

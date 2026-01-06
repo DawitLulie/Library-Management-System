@@ -4,7 +4,6 @@
 A simple **console-based Library Management System** in Java that manages library books.  
 The system allows checking out and returning books, keeps track of the total number of books checked out, and maintains a list of all books in the library.  
 
-
 This project demonstrates:  
 - Object-oriented programming concepts
 - Use of **ArrayList** for managing collections

@@ -8,6 +8,7 @@ This project demonstrates:
 - Object-oriented programming concepts
 - Use of **ArrayList** for managing collections
 - Static variables for shared data across objects
+  
 
 ---
 

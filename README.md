@@ -9,6 +9,7 @@ This project demonstrates:
 - Use of **ArrayList** for managing collections
 - Static variables for shared data across objects
   
+  
 
 ---
 
